@@ -1,0 +1,1 @@
+# mage_manipulation_with_opencv
